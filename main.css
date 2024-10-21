@@ -1,0 +1,37 @@
+
+body{
+   
+    background-color:rgb(230, 233, 233);
+}
+div{
+    margin-top:5em;
+}
+img{
+/* display:flex;
+flex-wrap:wrap; */
+height:25vh;
+width:25%;
+outline: 3px solid black;
+
+}
+#btn{
+    height:2em;
+}
+#s1 {
+    width: 100%;
+    /* float: left; */
+    display: flex;
+    flex-direction: column;
+    /* align-content: space-around; */
+    justify-content: center;
+    align-items: center;
+    margin-bottom:2em;
+ 
+}
+#s2{
+    width:100%;
+    float:left;
+    display:flex;
+    justify-content:center;
+}
+
