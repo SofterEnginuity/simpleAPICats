@@ -1,22 +1,43 @@
 
+*{
+    box-sizing: border-box;
+  }
+
 body{
-   
-    background-color:rgb(230, 233, 233);
+    background-image:url('img/pawprint.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 div{
-    margin-top:5em;
+    margin-top:3em;
 }
 img{
 /* display:flex;
 flex-wrap:wrap; */
-height:25vh;
-width:25%;
+/* height:35vh; */
+width:50%;
+height:55vh;
 outline: 3px solid black;
-
 }
 #btn{
     height:2em;
 }
+h1 {
+    font-size: 65px;
+    font-weight: bold;
+    background-color: white;
+}
+/* body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    text-align:center;
+    margin-top:15em;
+
+  } */
+
+
 #s1 {
     width: 100%;
     /* float: left; */
