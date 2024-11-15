@@ -3,8 +3,8 @@ Everyone loves cats so check out my fun feline API! I'm am a pet momma for sure!
 
 **Link to project:** https://friendlyfelines.netlify.app/
 
-![alt tag](https://i.imgur.com/6iLxMNw.png)
 
+<img src="https://i.imgur.com/6iLxMNw.png" width=40% height=40%>
 
 **Tech used:** HTML, CSS & Javascript?
 
